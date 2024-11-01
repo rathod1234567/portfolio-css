@@ -1,0 +1,174 @@
+header{
+
+    background-color: #FFDE4D;
+    padding-top: 25px;
+    padding-bottom:25px;
+    position: sticky;
+    top: 0;
+
+}
+nav{
+    text-align: center;
+    word-spacing:30px;
+}
+a{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    /* font-family: cursive; */
+    font-weight: bolder;
+
+}
+
+a:hover{
+    color:rgb(170, 170, 199);
+    text-decoration: underline;
+    /* font-size:1rem; */
+}
+body{
+    background-color: aliceblue;
+    margin-top: 0px;
+}
+.div1{
+    background-color:whitesmoke;
+    margin-left: 100px;
+    margin-right: 100px;
+    
+    padding: 20px;
+    margin-top:25px;
+    box-shadow: 5px 5px 5px 5px rgb(125, 200, 224);
+
+    
+}
+h1{
+    text-align: center;
+    text-decoration: rgb(52, 52, 218);
+    text-decoration: underline;
+}
+.div2{
+    background-color:whitesmoke;
+    margin-left: 100px;
+    margin-right: 100px;
+    padding: 20px;
+    margin-top:25px;
+    box-shadow: 5px 5px 4px 4px  rgb(125, 200, 224);
+    /* position: absolute; */
+}
+img{
+    margin-top: -50px;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    float: left;
+   
+    
+
+}
+p{
+    margin-top: 80px;
+    font-size: 25px;
+    font-weight: bold;
+}
+h2{
+    /* font-family: c; */
+    font-weight: bolder;
+    text-decoration: underline solid green;
+    margin-top: 10px;
+    text-align: center;
+}
+.div3{
+    margin-left: 100px;
+    margin-right: 100px;
+    background-color:whitesmoke;
+    padding: 20px;
+    margin-top:25px;
+    box-shadow: 5px 5px 4px 4px rgb(125, 200, 224);
+}
+th{
+    background-color: wheat;
+    font-size: medium;
+}
+table{
+    margin-left: auto;
+    margin-right: auto;
+    
+    width: 60%;
+   
+    border-color: white;
+   
+}
+td{
+    text-align: center;
+}
+
+.div4{
+    margin-left: 100px;
+    margin-right: 100px;
+    background-color:whitesmoke;
+    padding: 20px;
+    margin-top:25px;
+    box-shadow: 5px 5px 4px 4px rgb(125, 200, 224);
+    display: flex;
+    gap: 30px;
+    
+    
+}
+.div4 h2{
+    text-align: center;
+}
+.divin1{
+    background-color:white;
+    padding: 100pxpx;
+    width: 250px;
+    text-align: center;
+    margin-top: 120px;
+}
+h3{
+    text-decoration: underline blue;
+}
+.divin2{
+    background-color: white;
+    padding: 100pxpx;
+    width: 250px;
+    margin-top: 120px;
+    text-align: center;
+
+}
+.divin3{
+    background-color: white;
+    padding: 100pxpx;
+    width: 250px;
+    margin-top: 120px;
+    text-align: center;
+}
+.div5{
+        margin-left: 100px;
+        margin-right: 100px;
+        background-color:whitesmoke;
+        padding: 20px;
+        margin-top:25px;
+        box-shadow: 5px 5px 4px 4px rgb(125, 200, 224) ;
+        font-family: sans-serif;
+        font-size: large;
+}
+
+input[type=text] {
+    width: 70%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+input[type=submit] {
+    width: 15%;
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-left:100px;
+}
